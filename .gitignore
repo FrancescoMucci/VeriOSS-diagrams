@@ -1,2 +1,5 @@
 # ignore old directory
 old/
+
+# ignore working directory
+workging/
